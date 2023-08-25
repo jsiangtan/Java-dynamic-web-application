@@ -1,4 +1,4 @@
-# test08
+# Java dynamic web application
 Java servlet and JSP web application<br>
 Author: Tan Joo Siang
 
